@@ -89,7 +89,6 @@ function Login() {
               />
             </div>
           </div>
-          {/* {error && <p className="text-center text-sm text-red-600">{error}</p>} */}
           <div>
             <button
               type="submit"
